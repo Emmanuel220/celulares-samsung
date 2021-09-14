@@ -1,0 +1,31 @@
+h1{
+font-size:90px;
+font-family: Courier New;
+}
+h2{
+	font-size:60px;
+}
+
+div.texto{
+	background:#DFEEEA;
+}
+img.texto1{
+	border-radius:40%;
+}
+div.mitexto2{
+	background: #D4ECDD;
+}
+table, th, td {
+  border: 6px solid black;
+  border-collapse: collapse;
+  font-family:Romana;
+  font-size: 20px;
+}
+p{
+	font-size: 22px;
+	font-family:Verdana;
+}
+li{
+	font-family: Verdana;
+	font-size: 17px;
+}
